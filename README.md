@@ -1,4 +1,5 @@
-# Kaggle_Notebooks
-This repository is for my kaggle notebooks, wich i try to solve diferents types of problems in kaggle competitions.
+# Notebooks com projetos diversos de data science.
 
-## I decided to use english language in this repository because kaggle is a platform with majoritary english language, i'm learning english and this will help me to improve it.
+## Teste_Conhecimento_Tecnico_Bix.
+[<img align="left"  width="26px" src="https://img.favpng.com/10/3/13/download-scalable-vector-graphics-notebook-icon-png-favpng-RGW76rTJft9LnbQEGPcYb2bPR.jpg" />](https://github.com/DorivanKadatzBorba/Notebooks/blob/main/Teste_Conhecimento_Tecnico_Bix.ipynb)
+
