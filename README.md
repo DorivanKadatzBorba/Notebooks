@@ -2,7 +2,7 @@
 # Projetos:
 [Teste_Conhecimento_Tecnico_Bix](#Teste_Conhecimento_Tecnico_Bix)
 
-## <a href= 'https://github.com/DorivanKadatzBorba/Notebooks/blob/main/Teste_Conhecimento_Tecnico_Bix.ipynb'> Teste_Conhecimento_Tecnico_Bix.(#Teste_Conhecimento_Tecnico_Bix)
+## <a href= 'https://github.com/DorivanKadatzBorba/Notebooks/blob/main/Teste_Conhecimento_Tecnico_Bix.ipynb'> Teste_Conhecimento_Tecnico_Bix.<a>(#Teste_Conhecimento_Tecnico_Bix)
   Este projeto era um teste de conhecimento para uma vaga de cientista de dados júnior da empresa Bix, não cheguei a entregar o resultado do meu trabalho, o motivo é a falta de tempo durante o desenvolvimento. Durante o processo seletivo na Gupy, fora entregue um link para a base de dados, até então não estava claro se era uma etapa de perguntas e respostas ou projeto livre, e haveria tempo para a entrega, entrei no link para obter a base de dados e comecei a desenvolver livremente, não dei continuidade no processo seletivo já que eu não tinha uma certeza de quanto tempo seria disposto para entrega do resultado. Gostei da base de dados e me debrucei uns 2 meses testando, modificando, aprendendo e aprendendo, sem me preocupar em dar continuidade no processo seletivo.
   Nesse notebook eu desenvolvi:
   - Fiz uma análise dos dados para conhecer o negócio e assim ter ideias do que desenvolver.
