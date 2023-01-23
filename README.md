@@ -1,4 +1,3 @@
-# Notebooks com projetos de data science.
 # Projetos:
 * [Teste_Conhecimento_Tecnico_Bix](#Teste_Conhecimento_Tecnico_Bix)
 * [Time-Series_Store_Sales_Forecasting](#Time-Series_Store_Sales_Forecasting)
