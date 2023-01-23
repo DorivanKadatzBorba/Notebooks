@@ -1,8 +1,10 @@
 # Notebooks com projetos de data science.
 # Projetos:
 [Teste_Conhecimento_Tecnico_Bix](#Teste_Conhecimento_Tecnico_Bix)
+[Time-Series_Store_Sales_Forecasting](#Time-Series_Store_Sales_Forecasting)
 
-## <a href= 'https://github.com/DorivanKadatzBorba/Notebooks/blob/main/Teste_Conhecimento_Tecnico_Bix.ipynb'> Teste_Conhecimento_Tecnico_Bix.<a>(#Teste_Conhecimento_Tecnico_Bix)
+## <a href= 'https://github.com/DorivanKadatzBorba/Notebooks/blob/main/Teste_Conhecimento_Tecnico_Bix.ipynb'> Teste_Conhecimento_Tecnico_Bix.<a>
+  (#Teste_Conhecimento_Tecnico_Bix)
   Este projeto era um teste de conhecimento para uma vaga de cientista de dados júnior da empresa Bix, não cheguei a entregar o resultado do meu trabalho, o motivo é a falta de tempo durante o desenvolvimento. Durante o processo seletivo na Gupy, fora entregue um link para a base de dados, até então não estava claro se era uma etapa de perguntas e respostas ou projeto livre, e haveria tempo para a entrega, entrei no link para obter a base de dados e comecei a desenvolver livremente, não dei continuidade no processo seletivo já que eu não tinha uma certeza de quanto tempo seria disposto para entrega do resultado. Gostei da base de dados e me debrucei uns 2 meses testando, modificando, aprendendo e aprendendo, sem me preocupar em dar continuidade no processo seletivo.
   Nesse notebook eu desenvolvi:
   - Fiz uma análise dos dados para conhecer o negócio e assim ter ideias do que desenvolver.
@@ -19,3 +21,12 @@
     - RMSE(Raiz quadrada média dos erros, é uma métrica utilizada por ser sensível aos erros maiores): 15415.63
 Em resumo, o modelo de previsão errou em média aproximadamente 19% para cima ou para baixo em relação ao valor verdadeiro.
 
+# <a href= 'https://github.com/DorivanKadatzBorba/Notebooks/blob/main/time-series-store-sales-forecasting.ipynb'>Time-Series_Store_Sales_Forecasting.<>
+(#Time-Series_Store_Sales_Forecasting)
+  Este foi meu primeiro projeto utilizando dados disponibilizado na plataforma kaggle, uma competição de data science com o propósito de prever vendas de produtos, os dados são de uma rede de supermercados do Equador denominada Corporación Favorita. Os dados já estavam tratados sendo apenas necessário pular direto para o desenvolvimento do modelo.
+  A plataforma kaggle tem forte predominância no inglês como linguagem, o que não é de se espantar, portanto mantive a mesma linguagem durante o desenvolvimento do notebook afim de também aprimorar meu inglês.
+  A competição tinha como premissa prever a venda de produtos para cada loja da corporação, e então subir o resultado para avaliação da plataforma.
+  Utilizei o XGBoost regressor, um modelo supervisionado de machine learning de regressão baseado em arvore de decisões impulsionada por gradiente.
+  - O resultado do modelo foi um desastre, já que, foi minha primeira tentativa com o algorítimo, irei retornar ao projeto e refaze-lo futuramente.
+  Apesar de não ter conseguido um bom resultado, garantiu meu aprendizado e consistência. a partir desse projeto, pude aprender e pesquisar por soluções a qual eu não fazia com os dados padrões de aprendizado como por exemplo o Iris, que já tem milhares de soluções por aí.
+  Manterei o notebook mesmo com péssimo resultado até sua próxima atualização, é o resultado de um estudante que erra, tenta e aprende como qualquer pessoa comum no ato de estudar.
