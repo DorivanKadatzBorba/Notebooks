@@ -1,7 +1,7 @@
 # Notebooks com projetos de data science.
 # Projetos:
-[Teste_Conhecimento_Tecnico_Bix](#Teste_Conhecimento_Tecnico_Bix)
-[Time-Series_Store_Sales_Forecasting](#Time-Series_Store_Sales_Forecasting)
+* [Teste_Conhecimento_Tecnico_Bix](#Teste_Conhecimento_Tecnico_Bix)
+* [Time-Series_Store_Sales_Forecasting](#Time-Series_Store_Sales_Forecasting)
 
 ## <a href= 'https://github.com/DorivanKadatzBorba/Notebooks/blob/main/Teste_Conhecimento_Tecnico_Bix.ipynb'> Teste_Conhecimento_Tecnico_Bix.<a>
   (#Teste_Conhecimento_Tecnico_Bix)
@@ -21,7 +21,7 @@
     - RMSE(Raiz quadrada média dos erros, é uma métrica utilizada por ser sensível aos erros maiores): 15415.63
 Em resumo, o modelo de previsão errou em média aproximadamente 19% para cima ou para baixo em relação ao valor verdadeiro.
 
-# <a href= 'https://github.com/DorivanKadatzBorba/Notebooks/blob/main/time-series-store-sales-forecasting.ipynb'>Time-Series_Store_Sales_Forecasting.<>
+# <a href= 'https://github.com/DorivanKadatzBorba/Notebooks/blob/main/time-series-store-sales-forecasting.ipynb'>Time-Series_Store_Sales_Forecasting.<a>
 (#Time-Series_Store_Sales_Forecasting)
   Este foi meu primeiro projeto utilizando dados disponibilizado na plataforma kaggle, uma competição de data science com o propósito de prever vendas de produtos, os dados são de uma rede de supermercados do Equador denominada Corporación Favorita. Os dados já estavam tratados sendo apenas necessário pular direto para o desenvolvimento do modelo.
   A plataforma kaggle tem forte predominância no inglês como linguagem, o que não é de se espantar, portanto mantive a mesma linguagem durante o desenvolvimento do notebook afim de também aprimorar meu inglês.
