@@ -7,7 +7,7 @@
 - [Time-Series_Store_Sales_Forecasting](#Time-Series_Store_Sales_Forecasting)
 
 ## <a href= 'https://github.com/DorivanKadatzBorba/Notebooks/blob/main/Teste_Conhecimento_Tecnico_Bix.ipynb'> Teste_Conhecimento_Tecnico_Bix.<a>
-- [Back to the contents](#mainmenu)
+- [Voltar ao menu](#mainmenu)
 <div>
     <a id="Teste_Conhecimento_Tecnico_Bix"></a>
 </div>
@@ -43,7 +43,7 @@
 Em resumo, o modelo de previsão errou em média aproximadamente 19% para cima ou para baixo em relação ao valor verdadeiro.
 
 # <a href= 'https://github.com/DorivanKadatzBorba/Notebooks/blob/main/time-series-store-sales-forecasting.ipynb'>Time-Series_Store_Sales_Forecasting.<a>
-- [Back to the contents](#mainmenu)
+- [Voltar ao menu](#mainmenu)
 <div>
     <a id="Time-Series_Store_Sales_Forecasting"></a>
 </div>
@@ -52,6 +52,7 @@ Em resumo, o modelo de previsão errou em média aproximadamente 19% para cima o
   A plataforma kaggle tem forte predominância no inglês como linguagem, o que não é de se espantar, portanto mantive a mesma linguagem durante o desenvolvimento do notebook afim de também aprimorar meu inglês.
   A competição tinha como premissa prever a venda de produtos para cada loja da corporação, e então subir o resultado para avaliação da plataforma.
   Utilizei o XGBoost regressor, um modelo supervisionado de machine learning de regressão baseado em arvore de decisões impulsionada por gradiente.
+    
   - O resultado do modelo foi um desastre, já que, foi minha primeira tentativa com o algorítimo, irei retornar ao projeto e refaze-lo futuramente.
   Apesar de não ter conseguido um bom resultado, garantiu meu aprendizado e consistência. a partir desse projeto, pude aprender e pesquisar por soluções a qual eu não fazia com os dados padrões de aprendizado como por exemplo o Iris, que já tem milhares de soluções por aí.
   Manterei o notebook mesmo com péssimo resultado até sua próxima atualização, é o resultado de um estudante que erra, tenta e aprende como qualquer pessoa comum no ato de estudar.
