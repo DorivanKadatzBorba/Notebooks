@@ -22,7 +22,7 @@
 
  - O conjunto de dados de vendas tem uma média de 77473.41 e desvio padrão 21815.81 para a rede de lojas somados.
 
- - O resultado final do XGBoost regressor ficou:
+ O resultado final da previsão de vendas com XGBoost regressor:
 
   - MAPE(Erro percentual médio, nada mais é do que uma medida em porcentagem do quanto o modelo erra em relação aos dados reais): 18.77%
 
