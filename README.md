@@ -1,9 +1,15 @@
+<div>
+    <a id="mainmenu"></a>
+</div>
 # Projetos:
 * [Teste_Conhecimento_Tecnico_Bix](#Teste_Conhecimento_Tecnico_Bix)
 * [Time-Series_Store_Sales_Forecasting](#Time-Series_Store_Sales_Forecasting)
 
 ## <a href= 'https://github.com/DorivanKadatzBorba/Notebooks/blob/main/Teste_Conhecimento_Tecnico_Bix.ipynb'> Teste_Conhecimento_Tecnico_Bix.<a>
-(#Teste_Conhecimento_Tecnico_Bix)
+- [Back to the contents](#mainmenu)
+<div>
+    <a id="Teste_Conhecimento_Tecnico_Bix"></a>
+</div>
   
   Este projeto seria para um teste de conhecimento para uma vaga de cientista de dados júnior da empresa Bix. A primeira etapa era apenas para responder uma serie de perguntas no processo seletivo da plataforma Gupy, mas aproveitei a base de dados e saí desenvolvendo livremente conforme as ideias iriam surgindo. Durante o processo, fora entregue um link para a base de dados pública. Gostei da base de dados e me debrucei uns 2 meses testando, modificando e aprendendo, codei muita coisa e deletei muito código e gráfico. ainda é possível fazer muita coisa com essa base de dados, cheguei em resultado legal que vale a pena compartilhar.
 
@@ -36,7 +42,10 @@
 Em resumo, o modelo de previsão errou em média aproximadamente 19% para cima ou para baixo em relação ao valor verdadeiro.
 
 # <a href= 'https://github.com/DorivanKadatzBorba/Notebooks/blob/main/time-series-store-sales-forecasting.ipynb'>Time-Series_Store_Sales_Forecasting.<a>
-(#Time-Series_Store_Sales_Forecasting)
+- [Back to the contents](#mainmenu)
+<div>
+    <a id="Time-Series_Store_Sales_Forecasting"></a>
+</div>
   
   Este foi meu primeiro projeto utilizando dados disponibilizado na plataforma kaggle, uma competição de data science com o propósito de prever vendas de produtos, os dados são de uma rede de supermercados do Equador denominada Corporación Favorita. Os dados já estavam tratados sendo apenas necessário pular direto para o desenvolvimento do modelo.
   A plataforma kaggle tem forte predominância no inglês como linguagem, o que não é de se espantar, portanto mantive a mesma linguagem durante o desenvolvimento do notebook afim de também aprimorar meu inglês.
