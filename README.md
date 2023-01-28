@@ -1,9 +1,10 @@
 <div>
     <a id="mainmenu"></a>
 </div>
+
 # Projetos:
-* [Teste_Conhecimento_Tecnico_Bix](#Teste_Conhecimento_Tecnico_Bix)
-* [Time-Series_Store_Sales_Forecasting](#Time-Series_Store_Sales_Forecasting)
+- [Teste_Conhecimento_Tecnico_Bix](#Teste_Conhecimento_Tecnico_Bix)
+- [Time-Series_Store_Sales_Forecasting](#Time-Series_Store_Sales_Forecasting)
 
 ## <a href= 'https://github.com/DorivanKadatzBorba/Notebooks/blob/main/Teste_Conhecimento_Tecnico_Bix.ipynb'> Teste_Conhecimento_Tecnico_Bix.<a>
 - [Back to the contents](#mainmenu)
