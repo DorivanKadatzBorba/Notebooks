@@ -3,7 +3,7 @@
 * [Time-Series_Store_Sales_Forecasting](#Time-Series_Store_Sales_Forecasting)
 
 ## <a href= 'https://github.com/DorivanKadatzBorba/Notebooks/blob/main/Teste_Conhecimento_Tecnico_Bix.ipynb'> Teste_Conhecimento_Tecnico_Bix.<a>
-  (#Teste_Conhecimento_Tecnico_Bix)
+(#Teste_Conhecimento_Tecnico_Bix)
   Este projeto seria para um teste de conhecimento para uma vaga de cientista de dados júnior da empresa Bix. A primeira etapa era apenas para responder uma serie de perguntas no processo seletivo da plataforma Gupy, mas aproveitei a base de dados e saí desenvolvendo livremente conforme as ideias iriam surgindo. Durante o processo, fora entregue um link para a base de dados pública. Gostei da base de dados e me debrucei uns 2 meses testando, modificando e aprendendo, codei muita coisa e deletei muito código e gráfico. ainda é possível fazer muita coisa com essa base de dados, cheguei em resultado legal que vale a pena compartilhar.
 
  Nesse notebook eu desenvolvi:
